@@ -1,4 +1,5 @@
 ﻿using HW6;
+using HW_6;
 using System;
 using System.IO;
 
